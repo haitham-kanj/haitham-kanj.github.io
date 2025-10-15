@@ -12,6 +12,7 @@ main:
     conference_short: SIMODS
     conference: Submitted to <strong>SIAM Journal on Mathematics of Data Science</strong>.
     pdf: https://arxiv.org/abs/2411.02225
+    image: ./assets/img/sparse_teaser.png
     notes: Submitted
 
   - title: "Max-Affine Regression via Sparse Gradient Descent"
@@ -19,33 +20,39 @@ main:
     conference_short: SAM
     conference: 2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>.
     pdf: https://ieeexplore.ieee.org/xpl/conhome/10636308/proceeding
+    image: ./assets/img/sam_teaser.png
 
   - title: "Acquisition and Tracking of Starlink LEO Satellite Signals in Low SNR Regime"
     authors: <strong>H. Kanj</strong>, S. Kozhaya, Z. Kassas
     conference_short: ION GNSS+
     conference: Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation <strong>(ION GNSS+)</strong>, 2023.
     pdf: https://people.engineering.osu.edu/sites/default/files/2023-10/Kassas_Acquisition_and_tracking_of_Starlink_LEO_satellite_signals_in_low_SNR_regime.pdf
+    image: ./assets/img/acq_teaser.png
 
   - title: "Blind Doppler Tracking and Positioning with NOAA LEO Satellite Signals"
     authors: S. Kozhaya, <strong>H. Kanj</strong>, Z. Kassas
     conference_short: ION GNSS+
     conference: Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation <strong>(ION GNSS+)</strong>, 2023.
     pdf: https://people.engineering.osu.edu/sites/default/files/2023-10/Kassas_Blind_Doppler_Tracking_and_Positioning_with_NOAA_LEO_Satellite_Signals.pdf
+    image: ./assets/img/blind_teaser.png
 
   - title: "Multi-constellation Blind Beacon Estimation, Doppler Tracking, and Opportunistic Positioning with OneWeb, Starlink, Iridium NEXT, and Orbcomm LEO Satellites"
     authors: S. Kozhaya, <strong>H. Kanj</strong>, Z. Kassas
     conference_short: PLANS
     conference: 2023 IEEE/ION Position, Location and Navigation Symposium <strong>(PLANS)</strong>.
     pdf: https://ieeexplore.ieee.org/abstract/document/10139969
+    image: ./assets/img/multi_teaser.png
 
   - title: "Navigation with Multi-Constellation LEO Satellite Signals of Opportunity: Starlink, OneWeb, Orbcomm, and Iridium"
     authors: Z. Kassas, S. Kozhaya, <strong>H. Kanj</strong>, J. Saroufim, S. Hayek, M. Neinavaie, N. Khairallah, J. Khalife
     conference_short: PLANS
     conference: 2023 IEEE/ION Position, Location and Navigation Symposium <strong>(PLANS)</strong>.
     pdf: https://people.engineering.osu.edu/sites/default/files/2023-05/Kassas_Navigation_with_multi_constellation_LEO_satellite_signals_of_opportunity_Starlink_OneWeb_Orbcomm_and_Iridium.pdf
+    image: ./assets/img/navi_teaser.png
 
   - title: "A Look at the Stars: Navigation with Multi-Constellation LEO Satellite Signals of Opportunity"
     authors: Z. Kassas, S. Kozhaya, J. Saroufim, <strong>H. Kanj</strong>, S. Hayek
     conference_short: Inside GNSS+
     conference: <strong>Inside GNSS+</strong>, Autonomous Media LLC, 2023.
     pdf: https://kb.osu.edu/server/api/core/bitstreams/ae4b77e0-e9ae-464b-a394-3938889c5369/content
+    image: ./assets/img/magazine_teaser.png
