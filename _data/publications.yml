@@ -1,22 +1,51 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Piecewise Linear Regression: A Parametric Solution"
+    authors: <strong>H. Kanj</strong>, K. Lee
+    conference_short: AISTATS
+    conference: Submitted to the 29th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
+    pdf: 
+    notes: Submitted
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Variable Selection in Convex Piecewise Linear Regression"
+    authors: <strong>H. Kanj</strong>, S. Kim, K. Lee
+    conference_short: SIMODS
+    conference: Submitted to <strong>SIAM Journal on Mathematics of Data Science</strong>.
+    pdf: https://arxiv.org/abs/2411.02225
+    notes: Submitted
+
+  - title: "Max-Affine Regression via Sparse Gradient Descent"
+    authors: <strong>H. Kanj</strong>, S. Kim, K. Lee
+    conference_short: SAM
+    conference: 2024 IEEE 13rd Sensor Array and Multichannel Signal Processing Workshop <strong>(SAM)</strong>.
+    pdf: https://ieeexplore.ieee.org/xpl/conhome/10636308/proceeding
+
+  - title: "Acquisition and Tracking of Starlink LEO Satellite Signals in Low SNR Regime"
+    authors: <strong>H. Kanj</strong>, S. Kozhaya, Z. Kassas
+    conference_short: ION GNSS+
+    conference: Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation <strong>(ION GNSS+)</strong>, 2023.
+    pdf: https://people.engineering.osu.edu/sites/default/files/2023-10/Kassas_Acquisition_and_tracking_of_Starlink_LEO_satellite_signals_in_low_SNR_regime.pdf
+
+  - title: "Blind Doppler Tracking and Positioning with NOAA LEO Satellite Signals"
+    authors: S. Kozhaya, <strong>H. Kanj</strong>, Z. Kassas
+    conference_short: ION GNSS+
+    conference: Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation <strong>(ION GNSS+)</strong>, 2023.
+    pdf: https://people.engineering.osu.edu/sites/default/files/2023-10/Kassas_Blind_Doppler_Tracking_and_Positioning_with_NOAA_LEO_Satellite_Signals.pdf
+
+  - title: "Multi-constellation Blind Beacon Estimation, Doppler Tracking, and Opportunistic Positioning with OneWeb, Starlink, Iridium NEXT, and Orbcomm LEO Satellites"
+    authors: S. Kozhaya, <strong>H. Kanj</strong>, Z. Kassas
+    conference_short: PLANS
+    conference: 2023 IEEE/ION Position, Location and Navigation Symposium <strong>(PLANS)</strong>.
+    pdf: https://ieeexplore.ieee.org/abstract/document/10139969
+
+  - title: "Navigation with Multi-Constellation LEO Satellite Signals of Opportunity: Starlink, OneWeb, Orbcomm, and Iridium"
+    authors: Z. Kassas, S. Kozhaya, <strong>H. Kanj</strong>, J. Saroufim, S. Hayek, M. Neinavaie, N. Khairallah, J. Khalife
+    conference_short: PLANS
+    conference: 2023 IEEE/ION Position, Location and Navigation Symposium <strong>(PLANS)</strong>.
+    pdf: https://people.engineering.osu.edu/sites/default/files/2023-05/Kassas_Navigation_with_multi_constellation_LEO_satellite_signals_of_opportunity_Starlink_OneWeb_Orbcomm_and_Iridium.pdf
+
+  - title: "A Look at the Stars: Navigation with Multi-Constellation LEO Satellite Signals of Opportunity"
+    authors: Z. Kassas, S. Kozhaya, J. Saroufim, <strong>H. Kanj</strong>, S. Hayek
+    conference_short: Inside GNSS+
+    conference: <strong>Inside GNSS+</strong>, Autonomous Media LLC, 2023.
+    pdf: https://kb.osu.edu/server/api/core/bitstreams/ae4b77e0-e9ae-464b-a394-3938889c5369/content
