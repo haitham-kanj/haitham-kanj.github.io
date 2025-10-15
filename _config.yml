@@ -2,7 +2,7 @@
 title: Haitham Kanj
 position: ECE & STAT Ph.D. Student
 affiliation: The Ohio State University
-email: lastname (at) osu.edu
+email: last AT osu DOT edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -13,7 +13,6 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=PV4V9xYAAAAJ&hl=en
-cv_link: assets/files/HK_CV_Short.pdf
 linkedin: https://www.linkedin.com/in/haitham-kanj/
 
 # Images (e.g., your profile picture and your website's favicon) 
