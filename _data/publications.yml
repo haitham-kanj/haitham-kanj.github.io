@@ -3,14 +3,14 @@ main:
   - title: "Piecewise Linear Regression: A Parametric Solution"
     authors: <strong>H. Kanj</strong>, K. Lee
     conference_short: AISTATS
-    conference: Submitted to the 29th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
+    conference: The 29th International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2026.
     pdf: 
     notes: Submitted
 
   - title: "Variable Selection in Convex Piecewise Linear Regression"
     authors: <strong>H. Kanj</strong>, S. Kim, K. Lee
     conference_short: SIMODS
-    conference: Submitted to <strong>SIAM Journal on Mathematics of Data Science</strong>.
+    conference:<strong>SIAM<\strong> Journal on Mathematics of Data Science.
     pdf: https://arxiv.org/abs/2411.02225
     image: ./assets/img/sparse_teaser.png
     notes: Submitted
