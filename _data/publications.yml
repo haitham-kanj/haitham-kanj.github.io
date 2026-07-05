@@ -15,7 +15,7 @@ main:
     image: "./assets/img/sparse_teaser.png"
     notes: "Accepted in Production"
 
-    - title: "Acquisition and Tracking of Starlink LEO Satellite Signals in Low SNR Regime"
+  - title: "Acquisition and Tracking of Starlink LEO Satellite Signals in Low SNR Regime"
     authors: "<strong>H. Kanj</strong>, S. Kozhaya, and Z. Kassas"
     conference_short: "ION GNSS+"
     conference: "Proceedings of the 36th International Technical Meeting of the Satellite Division of The Institute of Navigation <strong>(ION GNSS+)</strong>, 2023."
@@ -49,4 +49,3 @@ main:
     conference: "<strong>Inside GNSS+</strong>, Autonomous Media LLC, 2023."
     pdf: "https://kb.osu.edu/server/api/core/bitstreams/ae4b77e0-e9ae-464b-a394-3938889c5369/content"
     image: "./assets/img/magazine_teaser.png"
-    
